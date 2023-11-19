@@ -1,0 +1,9 @@
+ <div class="content-container d-flex justify-content-center">
+        <div class="card" style="width: 50rem ; height: 75vh;">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+            </div>
+        </div>
+    </div>
+
+    data-bs-target="#exampleModal2"
